@@ -4,14 +4,14 @@
 
 The proposal should contain the following elements:
 
-1) background: relevant summary of context for the proposal (leave out irrelevant factors)
-2) goals: target KPI to improve and how analytics can drive that change
-3) data: data sources and volumes needed (must-have and nice-to-have)
-4) methodology: high level description of method used and how data will be treated (variables to include, etc.)
-5) decision: how analytical results are used to make decisions (different from today)
-6) expected results: expected variation in target KPIs and factors driving the business case
-7) benefits: other qualitative improvements
-8) calendar: time and resources needed
+1) *Background*: relevant summary of context for the proposal (leave out irrelevant factors)
+2) *Goals*: target KPI to improve and how analytics can drive that change
+3) *Data*: data sources and volumes needed (must-have and nice-to-have)
+4) *Methodology*: high level description of method used and how data will be treated (variables to include, etc.)
+5) *Decision*: how analytical results are used to make decisions (different from today)
+6) *Expected results*: expected variation in target KPIs and factors driving the business case
+7) *Benefits*: other qualitative improvements
+8) *Calendar*: time and resources needed
 
 Focus should be on how to transform business questions in methodologies and then back to business operations. You can make assumptions if the case is not explicit about a relevant factor.
 
