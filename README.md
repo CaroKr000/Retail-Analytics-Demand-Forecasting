@@ -1,4 +1,4 @@
-# Retail-Analytics-Demand-Forecasting
+# Retail Analytics: Demand Forecasting
 
 >This project tackles how Agullo’s Fashion Retail (AFR), a fictional kid's fashion retailer, can leverage demand forecasting to enhance its supply chain and thereby improve its operational efficiency and boost the company’s profitability.
 
