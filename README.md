@@ -15,6 +15,11 @@ The proposal should contain the following elements:
 
 Focus should be on how to transform business questions in methodologies and then back to business operations. You can make assumptions if the case is not explicit about a relevant factor.
 
+
+<img src="https://github.com/CaroKr000/Retail-Analytics-Demand-Forecasting/blob/master/readme_pictures_retail/1.png?raw=true" width=fill>
+<img src="https://github.com/CaroKr000/Retail-Analytics-Demand-Forecasting/blob/master/readme_pictures_retail/2.png?raw=true" width=fill>
+
+
 ## License
 The License is a general MIT license. Please see the LICENSE.rtf file as an additional reference.
 
